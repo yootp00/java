@@ -27,6 +27,7 @@ import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 import javax.xml.crypto.Data;
 
+//javafinalexam mysql db
 public class ScoreDBGUIFrame extends JFrame implements ActionListener, MouseListener{
 	static Connection con=null;
 	static String dbTableName="score201958091";
